@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hey there! I'm Chris Pondoc!
+
+I'm a current Junior at Stanford, where I study computer science. I'm broadly interested in human-AI interaction, machine learning systems, and crypto.
 
 <!--
 **cpondoc/cpondoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
