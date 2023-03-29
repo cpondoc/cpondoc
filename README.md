@@ -1,4 +1,4 @@
-## Hey there! I'm Chris Pondoc!
+#### Hey there! I'm Chris Pondoc!
 
 I'm a current Junior at Stanford, where I study computer science. I'm broadly interested in human-AI interaction, machine learning systems, and crypto.
 
